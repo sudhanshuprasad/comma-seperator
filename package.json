@@ -1,0 +1,17 @@
+{
+  "name": "comma-seperator",
+  "version": "1.0.1",
+  "description": "an npm package which takes in number and returns a comma seperated string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sudhanshu Prasad",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.19.2"
+  },
+  "dependencies": {
+    "comma-seperator": "^1.0.0"
+  }
+}
